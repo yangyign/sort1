@@ -2,7 +2,7 @@
 * @Author: hxzyy
 * @Date:   2019-12-19 21:16:39
 * @Last Modified by:   hxzyy
-* @Last Modified time: 2019-12-22 15:59:02
+* @Last Modified time: 2019-12-22 17:10:47
 */
 *{
 	padding: 0;
@@ -16,7 +16,7 @@ li{
 }
 .first-wrap{
 	height: 650px;
-	background-color: pink;
+/* 	background-color: pink; */
 
 }
 .first-wrap img{
@@ -30,7 +30,7 @@ li{
 	left: 13px;
 	width: 320px;
 	height: 350px;
-	background-color: green;
+/* 	background-color: green; */
 	padding-left: 8px;
 }
 .uli1 li{
@@ -38,7 +38,7 @@ li{
 	top: 13px;
 	width: 70px;
 	height: 73px;
-	background-color: yellowgreen;
+/* 	background-color: yellowgreen; */
 	float: left;
 	margin-right: 10px;
 	margin-bottom: 10px;
@@ -49,7 +49,7 @@ li{
 	left: 14px;
 	color: blue;
 	font-size: 20px;
-
+/* 	font-weight: bolder; */
 }
 .li1 a:hover{
 	color: #255784;
@@ -57,7 +57,7 @@ li{
 	box-shadow:0 0 15px #2196f3, 0 0 40px #2196f3, 0 0 10px #2196f3;
 }
 .second-wrap{
-	background-color: gray;
+/* 	background-color: gray; */
 	position: relative;
 	top: -115px;
 	right: -400px;
@@ -70,7 +70,7 @@ li{
 .second-wrap li{
 	width: 200px;
 	height: 260px;
-	background-color: black;
+/* 	background-color: black; */
 	margin-right: 10px;
 	margin-bottom: 10px;
 	float: right;
@@ -82,6 +82,7 @@ li{
 }
 .li2 p{
 	color: lightblue;
+	font-weight: bolder;
 	text-align: center;
 	position: relative;
 	top: 6px;
